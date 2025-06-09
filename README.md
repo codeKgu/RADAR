@@ -101,7 +101,7 @@ evaluate --help
 
 ### Notebooks
 We also include minimal notebooks to run each baseline where you can define your own LM function call.
-* [`direct_prompting.ipynb`](https://github.com/codeKgu/RADAR/blob/main/notebooks/direct_prompting.ipynb) shows how to run the direct prompting
+* [`direct_prompting.ipynb`](https://github.com/codeKgu/RADAR/blob/main/notebooks/direct_prompting.ipynb) shows how to run the direct prompting baseline
 * [`code_agent.ipynb`](https://github.com/codeKgu/RADAR/blob/main/notebooks/code_agent.ipynb) shows how to run the code agent baseline
 
 
