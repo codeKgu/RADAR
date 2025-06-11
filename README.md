@@ -1,6 +1,6 @@
 # RADAR: Benchmarking Language Models on Imperfect Tabular Data
 
-### [📑 Paper]() | [🤗 Dataset](https://huggingface.co/datasets/kenqgu/radar/)
+### [📑 Paper](https://arxiv.org/pdf/2506.08249) | [🤗 Dataset](https://huggingface.co/datasets/kenqgu/radar/)
 ---
 <img src="assets/radar-teaser.png" align="right" width="400px" style="margin-left: 30px; margin-bottom: 20px"/>
 
