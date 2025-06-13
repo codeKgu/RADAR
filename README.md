@@ -110,5 +110,11 @@ We also include minimal notebooks to run each baseline where you can define your
 If you use RADAR in your research, please cite our paper:
 
 ```bibtex
+@article{gu2025radar,
+  title={RADAR: Benchmarking Language Models on Imperfect Tabular Data},
+  author={Gu, Ken and Zhang, Zhihan and Lin, Kate and Zhang, Yuwei and Paruchuri, Akshay and Yu, Hong and Kazemi, Mehran and Ayush, Kumar and Heydari, A Ali and Xu, Maxwell A and others},
+  journal={arXiv preprint arXiv:2506.08249},
+  year={2025}
+}
 ```
 
